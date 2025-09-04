@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "micro-amplifier-462918-a1",
+  "private_key_id": "775761fea424185e0135703daa4ca91f17d2d538",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWsLX277ARbfO6\nN3qbOCyiCkT6BKStfM4Ff3isNgIvwSMNON8lqtFJAA8stzQHn3NNzirIC8tmyKo8\ntcr4lbRBMUtnBO81q/19iNRNxWEyy16+m129dE6b2hhH18CWoy0pQb/YEI2n1eMc\nZ/XxEjhZr4Nb2UlRwhTdvECWmnlw8s76o43f+1WkMhe8FWRy5r6TQM8sYU9MpL9Z\nm8Xn4p2xDbrG7HxroNFg0ix2racSpoWD/bzZ5kBD3F6uOTCmcKrxhh3o+cIbsXOq\nOJ8GXLvXlph3Ru779Nw9pNXuQqmMm+L8Qir2I1W5dQAt5kxWnOylithDOp6GRb5q\nj9oRwl7tAgMBAAECggEAI/2Cu69Jwlo+2hBT3vKHVPDIyGr/2k+KUBSi+6egLTZA\n9IX8rplYtVartJDPyZla4Ie310pW4lewZjYJnSuniKhFXjNPEJ3RBHrsME9u8G90\nZhqwl8KILQteN6j9EaOwPfLWQNfhj2nFRW1OJwgpZyuLp1mhN3IEQnm9ECI8Sokz\nED4/dsIj1Do4LHivBp8XZzC56dLnxt5TLWXUNenwtEUQDrsdENb2BBdDKOctnrEs\nhKBvb7oj2UzlWkY45YmzbRPWnDCbTObdlpE+BPGHv065urcbQTQStJlSx4Q4Z1U+\nEgBjal0qY4fAXNIf55uBb/3/J2k1rN48mrDLgWSXdwKBgQD6eYGOWHQELWz1+pVU\n6IWcmLhAZay91hRCI3ch145NW3LFG3WsDALVj/udu7n9WBF9MriNg35jB1Ho0dMa\ng0Fym3QC3kAB2ZtPH6XY+y8LVqWoVN5WFsiEqLFDAyFd6QvnAn0sLK3Gsvg3QMkQ\n7HVZug8CFQnl5rPaKI3ujRrSlwKBgQDbbR8Rq1oZlyhi2vXTXpH4w4EcS623HJh6\n+yTfEZiDl6iJZLGqi34uQw4CRBtwFZoYe0ib1htaP94D79GVSWV3ZQ8Ya3qypmUT\ngnTvKop4jKCeFIZajpPuJqdqlm4EVetE/BPKZlJkH3+GeBtc27oyShC6jBYP/WUM\ngzf2fR0/GwKBgB4ub/8QB4LNWnjVZhMiJZ92A5W26rbBShWiImPQjpQhtdWsdmRx\n2hGT1PTvvvyZFRpp9zUOKDeUlTkht3dVY5iExNjnoPzYFM/W92wK8GNEYJfFCjmD\na0wY66swgF/Jiiae9ShSheoQfLpjsxa393gFZHOSx2uNfhSGmHurQxUnAoGBAIZT\nrwlqFKZF2vtpf8P9yO65AHkJ+zZ10wK2bEQCyZMFbK9vbTQyYPSBKDpK52EeWE9U\naYa889Gz934BehQh8nO88hjI8zwakRX4bw1axZo2vL0JY5ZcYkMQdrzRilgtIPIC\nPztQmG+iuLbhIB8ghEP1A3iv+XGgdhPK4J+MyDKxAoGBANW4LmkYRjq81NAPKSK+\nN0wEDaF1B695wcHmiq2MgX6BdW5qDsK6IyV7Q6Zp36zpfLOK0K057SO6/2mRtDIN\nlfcZKmrra+TLQ1QKcmz0U0b6qxDv+rfC/CBV2j7eX49f1N+pCzNZC7Sy/igdiwdo\nV+OBs7YGKinV+2aDJJaOjxSr\n-----END PRIVATE KEY-----\n",
+  "client_email": "octopus-automation@micro-amplifier-462918-a1.iam.gserviceaccount.com",
+  "client_id": "107580017545278924165",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/octopus-automation%40micro-amplifier-462918-a1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
